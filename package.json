@@ -1,0 +1,30 @@
+{
+  "name": "jff-canvas",
+  "version": "0.0.6",
+  "description": "View framework for HTML canvas",
+  "files": ["lib/"],
+  "main": "lib/",
+  "scripts": {
+    "build": "node build.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:publish": "npm run build; npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/278204/jff-canvas.git"
+  },
+  "keywords": [
+    "html",
+    "canvas",
+    "view"
+  ],
+  "author": "Pål",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/278204/jff-canvas/issues"
+  },
+  "homepage": "https://github.com/278204/jff-canvas#readme",
+  "devDependencies": {
+    "esbuild": "^0.7.4"
+  }
+}
