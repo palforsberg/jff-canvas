@@ -1,6 +1,12 @@
 # jff-canvas
 View framework for HTML canvas
 
+## Demo
+
+[Table jff-table built on top of jff-canvas.](https://278204.github.io/public/jff-table.html)
+
+[Basic animation and view exmaples.](https://278204.github.io/public/jff-canvas.html)
+
 ## Basics
 
 Adding a simple view
